@@ -13,5 +13,10 @@ The judges' decision is final and shall not be discussed.
 There is no limit to the size of the teams.
 
 
+### Participation
+All registrants may not be able to participate. The organizers will provide selection information as soon as available.
+
+
+
 ### Image diffusion
 By registering to the event, all participants agree to appear on photographs and recordings of the event that may be distributed by the organizers.
