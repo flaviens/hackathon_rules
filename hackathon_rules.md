@@ -1,4 +1,4 @@
-# Hackathon X regulation
+# Hackathon X terms of agreement
 
 ### General behavior
 As for any event, the participants to Hackathon X are asked to keep the place clean and relatively quiet. The spirit of the event is: friendliness, fun and learning.
